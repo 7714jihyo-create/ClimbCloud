@@ -17,7 +17,7 @@
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
-* **Engine**: Unity 2022.x (또는 본인이 사용한 버전)
+* **Engine**: Unity 2022.3.61f1
 * **Language**: C#
 * **Physics**: Rigidbody 2D, Collider 2D (Box/Circle)
 * **Graphics**: 2D Sprite, Animator (Mecanim System)
